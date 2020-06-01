@@ -1,4 +1,4 @@
-pakage com.one
+package com.one
 public class myclass{
 public static void main(String[] args){
 System.out.println("hello");
